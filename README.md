@@ -2,8 +2,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na UNINTER. 💻
 
-O foco dos meus estudos é área de **back-end** utilizando a linguagem Python.
-
+O foco dos meus estudos é área de **back-end**.
 ## Estou aprendendo
 
 [![Estou aprendendo](https://skillicons.dev/icons?i=python,java,mysql,git,linux)](https://skillicons.dev)
