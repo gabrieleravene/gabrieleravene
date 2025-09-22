@@ -1,4 +1,4 @@
-## Oi, eu sou a Gabi! 👋
+## Oi, eu sou a Gabi! 😺👋
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na UNINTER. 💻
 
